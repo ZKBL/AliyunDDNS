@@ -1,0 +1,11 @@
+C:\Users\clown\Documents\clown\aliyunddns\bin\Debug\netcoreapp3.1\aliyunddns.exe
+C:\Users\clown\Documents\clown\aliyunddns\bin\Debug\netcoreapp3.1\aliyunddns.deps.json
+C:\Users\clown\Documents\clown\aliyunddns\bin\Debug\netcoreapp3.1\aliyunddns.runtimeconfig.json
+C:\Users\clown\Documents\clown\aliyunddns\bin\Debug\netcoreapp3.1\aliyunddns.runtimeconfig.dev.json
+C:\Users\clown\Documents\clown\aliyunddns\bin\Debug\netcoreapp3.1\aliyunddns.dll
+C:\Users\clown\Documents\clown\aliyunddns\bin\Debug\netcoreapp3.1\aliyunddns.pdb
+C:\Users\clown\Documents\clown\aliyunddns\obj\Debug\netcoreapp3.1\aliyunddns.csprojAssemblyReference.cache
+C:\Users\clown\Documents\clown\aliyunddns\obj\Debug\netcoreapp3.1\aliyunddns.AssemblyInfoInputs.cache
+C:\Users\clown\Documents\clown\aliyunddns\obj\Debug\netcoreapp3.1\aliyunddns.AssemblyInfo.cs
+C:\Users\clown\Documents\clown\aliyunddns\obj\Debug\netcoreapp3.1\aliyunddns.dll
+C:\Users\clown\Documents\clown\aliyunddns\obj\Debug\netcoreapp3.1\aliyunddns.pdb
